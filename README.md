@@ -1,6 +1,6 @@
 👋 Hello, I'm Muhammad!
 
-👀 I have a strong interest in a variety of technologies including Python, JavaScript (React & React Native), Java (including Spring, Spring Boot and Jackson).
+👀 I have a strong interest in various technologies including Python, JavaScript (React & React Native), Java (including Spring, Spring Boot and Jackson).
 
 🌱 I am always seeking opportunities to learn and grow as a developer. In addition to my coursework, I have already been contributing to open source projects like the Jackson (Java library for JSON serialization/deserialization) to gain experience and improve my skills.
 
